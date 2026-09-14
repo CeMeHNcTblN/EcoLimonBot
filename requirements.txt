@@ -1,0 +1,5 @@
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+python-dotenv>=1.0.0
+pyTelegramBotAPI>=4.14.0
+PySocks>=1.7.1
